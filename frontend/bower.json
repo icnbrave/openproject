@@ -18,7 +18,7 @@
     "angular-elastic": "~2.5.1",
     "angular-cache": "~4.6.0",
     "jquery-migrate": "~1.2.1",
-    "moment": "~2.10.6",
+    "moment": "~2.16.0",
     "moment-timezone": "0.4.x",
     "angular-context-menu": "nickmessing/angular-context-menu#a908eccaec323cd66973d58af4965694bdff16a1",
     "angular-busy": "~4.1.3",
